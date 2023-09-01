@@ -2,8 +2,6 @@
    Golang JWT
 </h1>
 
-<br>
-
 ## ✨ Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
@@ -36,13 +34,12 @@ Para testar o projeto basta:
 - E enviar as requisições que preferir com seus parâmetros!
 
 Requisições utilizando o Postman:
+<br>
 Cadastro:
 ![image](https://github.com/josenadin01/go-jwt/assets/93929513/549df364-cbb8-46ea-a974-83760270482e)
-
+<br>
 Login:
 ![image](https://github.com/josenadin01/go-jwt/assets/93929513/9f43c856-f521-4db0-9694-111245291786)
-
+<br>
 Validação de token/informações do usuário:
 ![image](https://github.com/josenadin01/go-jwt/assets/93929513/838d7fd2-2aa1-4390-9528-15ca80b2616f)
-
-
